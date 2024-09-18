@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @Hira-Tech-GenAi
-- 👀 I’m interested in Sybersecurity
-- 🌱 I’m currently pursuing Cloud Native Generative Ai Engineer Course From PIAIC & GIAIC
+- 👋 Hi, I’m Hira Khalid.
+- 👀 I’m interested in Sybersecurity.
+- 🌱 I’m currently pursuing Cloud Native Generative Ai Engineer Course From PIAIC & GIAIC.
 - 📫 How to reach me hiratech88@gmail.com
 - ⚡ Fun fact: Coding, Traveling, watch movies
 
